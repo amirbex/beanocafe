@@ -1,0 +1,6 @@
+{
+  "name": "Bino Cafe Strategic Plan",
+  "description": "Strategic business plan presentation for Cafe Bino with interactive charts and timeline",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
